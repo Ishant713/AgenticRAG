@@ -34,6 +34,19 @@ Users can upload documents, ask questions, and receive context-aware AI-generate
 
 ---
 
+## Project Demo 
+### Genral LLm answer without uploading Document file 
+<img width="1786" height="779" alt="normal answer" src="https://github.com/user-attachments/assets/c4ecde22-6b9c-49cc-b676-c7b224a38485" />
+
+ ### Giving Answer using RAG
+ <img width="1765" height="739" alt="rag answer" src="https://github.com/user-attachments/assets/15cc599d-32c1-4b25-b942-a2d3024b8d27" />
+
+### Giving answer using general LLM instead from RAG
+<img width="1782" height="739" alt="using genral llm intead rag" src="https://github.com/user-attachments/assets/1051a731-9783-47d4-b20d-df1a357a1697" />
+
+### Using(TAVILY) for Web search for getting answer
+<img width="1683" height="739" alt="Screenshot 2026-06-23 234528" src="https://github.com/user-attachments/assets/7cd4cf4a-5c6e-4005-a373-611afed67f4c" />
+
 # ✨ Features
 
 ## 🧠 Adaptive Query Routing
@@ -186,18 +199,7 @@ TAVILY_API_KEY=your_tavily_api_key
 ```
 
 ---
-## Results 
-### Genral LLm answer without uploading Document file 
-<img width="1786" height="779" alt="normal answer" src="https://github.com/user-attachments/assets/c4ecde22-6b9c-49cc-b676-c7b224a38485" />
 
- ### Giving Answer using RAG
- <img width="1765" height="739" alt="rag answer" src="https://github.com/user-attachments/assets/15cc599d-32c1-4b25-b942-a2d3024b8d27" />
-
-### Giving answer using general LLM instead from RAG
-<img width="1782" height="739" alt="using genral llm intead rag" src="https://github.com/user-attachments/assets/1051a731-9783-47d4-b20d-df1a357a1697" />
-
-### Using(TAVILY) for Web search for getting answer
-<img width="1683" height="739" alt="Screenshot 2026-06-23 234528" src="https://github.com/user-attachments/assets/7cd4cf4a-5c6e-4005-a373-611afed67f4c" />
 
 
 # ▶️ Running the Project
